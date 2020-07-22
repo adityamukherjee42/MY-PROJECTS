@@ -1,0 +1,2 @@
+This is my analysis on COVID-19 that is happening now.I have analyzed the top 5 states .The link bellow is the kaggle link to my article .Any comments and upvotes will be appreciated
+https://www.kaggle.com/adityamukherjee42/covid-19-analysis-of-states-of-india
